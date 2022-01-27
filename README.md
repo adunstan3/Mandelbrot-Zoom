@@ -1,5 +1,4 @@
-# -M3OEP-MPL1-adunstan
-Mandelbrot zoom generator
+# Mandelbrot Zoom Generator
 
 This is a program which genrates videos of mandelbrot zooms. The io is done in python with pygame, 
 and the calculations are done in c++. The c++ library easy bmp is used to genrate bmp images, and 
